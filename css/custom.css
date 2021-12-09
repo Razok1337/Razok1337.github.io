@@ -86,7 +86,7 @@ font-size:22px;
 	float:left;
 	max-width: 400px;
 }
-
+}
 @media screen and (max-width: 1300px) {
 	
 	.eight { order: 1; }
@@ -97,7 +97,7 @@ font-size:22px;
    .three { order: 6; }
    .two { order: 7; }
    .one { order: 8; }
-
+}
 @media screen and (max-width: 760px) {
   .jumboimage {
     background:none;
